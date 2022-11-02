@@ -29,6 +29,7 @@
 .list p{
     font-size: 15px;
     margin-bottom: 8px;
+    margin-top: 5px;
 }
 
 .list button{
@@ -60,4 +61,8 @@
 .btn-sair:hover{
     background-color: red;
     color: white;
+}
+
+.btn-register{
+    margin-bottom: 5px;
 }
